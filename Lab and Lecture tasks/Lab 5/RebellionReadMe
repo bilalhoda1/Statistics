@@ -1,0 +1,19 @@
+1907 Romanian Peasant Rebellion - Read Me
+
+Background: The 1907 Romanian Peasants' revolt took place between 21 February and 5 April 1907. It started in northern Moldavia and, after three weeks in which it was localized in that area, it quickly spread, reaching Wallachia, including as far as Oltenia. The main cause was discontent of the peasants about the inequity of land ownership, which was in the hands of just a few large landowners. 
+
+The peasants, fearing that they would remain without work and, more importantly, without food, began to act violently.The fear of remaining out of work, combined with the activities of alleged Austro-Hungarian instigators, led the peasants to revolt. The revolt soon spread across most of Moldavia, with several landowners' properties destroyed and many lessors killed or wounded. On 18 March a state of emergency was declared, and then a general mobilization, with 140,000 soldiers being recruited by 29 March. The Romanian Army began firing on the peasants; thousands of peasants perished and more than 10,000 were arrested. 
+
+Dataset: 
+Each observation represents a Romanian county
+
+Variables
+intensity - a measure of the intensity of the rebellion in a county
+commerce - a measure of the commercialization of agriculture in a county
+tradition - a measure of traditionalism in a county
+midpeasant - a measure of the Strength of middle peasantry in a county
+inequality - a measure of inequality of land tenure
+
+Source: Chirot, D. and C. Ragin (1975) The market, tradition and peasant rebellion: The case of Romania. American Sociological Review 40, 428–444 [Table 1]. 
+
+

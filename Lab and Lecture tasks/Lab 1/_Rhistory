@@ -1,0 +1,32 @@
+read.csv("gapminder.csv")
+read.csv("data/gapminder.csv")
+#Used setwd to set the working directory
+setwd('Lab 1 assignment')
+#Used setwd to set the working directory
+setwd('~/Lab 1 assignment')
+#read.csv to read file
+read.table(file = "data/iris.csv", header = TRUE, sep = ",")
+#read.csv to read file
+read.table(file = "~/data/iris.csv", header = TRUE, sep = ",")
+#read.csv to read file
+read.table(file = "~/data/gapminder.csv", header = TRUE, sep = ",")
+#read.csv to read file
+read.table(file = "data/gapminder.csv", header = TRUE, sep = ",")
+#read.csv to read file
+gapminder <- read.table(file = "data/gapminder.csv", header = TRUE, sep = ",")
+str(gapminder)
+#Used setwd to set the working directory
+setwd('C:/Users/sh02918/Documents/Lab 1 assignment')
+#read.csv to read file and stored in a variable
+gapminder <- read.table(file = "data/gapminder.csv", header = TRUE, sep = ",")
+#Used the str function to look at the whole dataset.
+#Our data has 6 variables
+str(gapminder)
+typeof(gapminder$year)
+Class(gapminder$year)
+class(gapminder$year)
+gapminder$continent
+#Question 2
+#
+levels(gapminder$country)
+levels(gapminder$continent)

@@ -1,0 +1,4 @@
+Instructions
+
+Please download the smoke.csv dataset. This dataset contains data from Canadian study of mortality by age and smoking status. 
+Please run a poisson glm examining the effect of type of smoking (no smoking (no), cigarette only, cigar pipe only, cigaretter plus cigar pipe (known as cigarette plus) and age on the total number of deaths (death). Pop is the total number of people followed from each age category in the study. Make sure to check model fit and pick the best fitting model. Your R script will be due on Thursday June 11th at 11:30pm. 

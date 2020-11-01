@@ -1,0 +1,512 @@
+dbinom(n1,100,0.5)
+dbinom(n1,100,0.01)
+dbinom(n1,100,0.1)
+dbinom(n1,100,0.89)
+first <- dbinom(n1,100,0.5)
+plot(first, ylab = "Density", xlab = "Number of successes")
+plot(second, ylab = "Density", xlab = "Number of successes")
+second <- dbinom(n1,100,0.01)
+plot(second, ylab = "Density", xlab = "Number of successes")
+third <- dbinom(n1,100,0.1)
+plot(third, ylab = "Density", xlab = "Number of successes")
+plot(fourth, ylab = "Density", xlab = "Number of successes")
+fourth <- dbinom(n1,100,0.89)
+plot(fourth, ylab = "Density", xlab = "Number of successes")
+plot(first, ylab = "Density", xlab = "Number of successes")
+plot(second, ylab = "Density", xlab = "Number of successes")
+plot(first, ylab = "Density", xlab = "Number of successes")
+second <- dbinom(n1,100,0.01)
+plot(second, ylab = "Density", xlab = "Number of successes")
+third <- dbinom(n1,100,0.1)
+plot(third, ylab = "Density", xlab = "Number of successes")
+fourth <- dbinom(n1,100,0.89)
+plot(fourth, ylab = "Density", xlab = "Number of successes")
+#1b)what happens when the size is increased to 1000, 10000, 100000?
+one <- dbinom(n1,1000,0.5)
+one
+#1b)what happens when the size is increased to 1000, 10000, 100000?
+one <- dbinom(n1,1000,0.5)
+one
+#1b)what happens when the size is increased to 1000, 10000, 100000?
+one <- dbinom(n1,1000,0.5)
+one
+plot(one, ylab = "Density", xlab = "Number of successes")
+two <- dbinom(n1,10000,0.5)
+plot(two, ylab = "Density", xlab = "Number of successes")
+three <- dbinom(n1,100000,0.5)
+plot(three, ylab = "Density", xlab = "Number of successes")
+pbinom(27, size=100, prob=0.25)
+plot(d)
+d <- pbinom(vec, size=100, prob=0.25)
+plot(d)
+#Recall that pbinom is the R function that calculates the cumulative density function of the binomial distribution.
+vec <- 1:100
+d <- pbinom(vec, size=100, prob=0.25)
+plot(d)
+#Question 1: plot a vector of 100 numbers that are drawn from a probability mass function of a binomial distribution with a 0.5 probability of success
+n1 <- 1:100
+first <- dbinom(n1,100,0.5)
+plot(first, ylab = "Density", xlab = "Number of successes")
+#1a)what happens when the probability is 0.01, 0.1, and 0.89?
+second <- dbinom(n1,100,0.01)
+plot(second, ylab = "Density", xlab = "Number of successes")
+plot(fourth, ylab = "Density", xlab = "Number of successes")
+fourth <- pbinom(n1,100,0.89)
+plot(fourth, ylab = "Density", xlab = "Number of successes")
+first <- pbinom(n1,100,0.5)
+plot(first, ylab = "Density", xlab = "Number of successes")
+#1a)what happens when the probability is 0.01, 0.1, and 0.89?
+second <- pbinom(n1,100,0.01)
+plot(second, ylab = "Density", xlab = "Number of successes")
+?pbinom
+fourth <- pbinom(n1,100,0.89)
+plot(fourth, ylab = "Density", xlab = "Number of successes")
+#1a)what happens when the probability is 0.01, 0.1, and 0.89?
+second <- pbinom(n1,100,0.01)
+plot(second, ylab = "Density", xlab = "Number of successes")
+fourth <- pbinom(n1,100,0.89)
+plot(fourth, ylab = "Density", xlab = "Number of successes")
+first <- pbinom(n1,100,0.5)
+plot(first, ylab = "Density", xlab = "Number of successes")
+fourth <- pbinom(n1,100,0.89)
+plot(fourth, ylab = "Density", xlab = "Number of successes")
+#1a)what happens when the probability is 0.01, 0.1, and 0.89?
+second <- pbinom(n1,100,0.01)
+plot(second, ylab = "Density", xlab = "Number of successes")
+fourth <- pbinom(n1,100,0.89)
+plot(fourth, ylab = "Density", xlab = "Number of successes")
+#1b)what happens when the size is increased to 1000, 10000, 100000?
+one <- dbinom(n1,1000,0.5)
+plot(one, ylab = "Density", xlab = "Number of successes")
+two <- dbinom(n1,10000,0.5)
+plot(two, ylab = "Density", xlab = "Number of successes")
+three <- dbinom(n1,100000,0.5)
+plot(two, ylab = "Density", xlab = "Number of successes")
+two <- dbinom(n1,10000,0.5)
+plot(two, ylab = "Density", xlab = "Number of successes")
+three <- dbinom(n1,100000,0.5)
+plot(three, ylab = "Density", xlab = "Number of successes")
+#1b)what happens when the size is increased to 1000, 10000, 100000?
+one <- dbinom(n1,1000,0.5)
+plot(one, ylab = "Density", xlab = "Number of successes")
+two <- dbinom(n1,10000,0.5)
+plot(two, ylab = "Density", xlab = "Number of successes")
+three <- dbinom(n1,100000,0.5)
+#Question 1: plot a vector of 100 numbers that are drawn from a probability mass function of a binomial distribution with a 0.5 probability of success
+n1 <- 1:100
+two <- dbinom(n1,10000,0.5)
+plot(two, ylab = "Density", xlab = "Number of successes")
+three <- dbinom(n1,100000,0.5)
+plot(three, ylab = "Density", xlab = "Number of successes")
+#1b)what happens when the size is increased to 1000, 10000, 100000?
+one <- dbinom(n1,1000,0.5)
+plot(one, ylab = "Density", xlab = "Number of successes")
+two <- dbinom(n1,10000,0.5)
+plot(two, ylab = "Density", xlab = "Number of successes")
+#1a)what happens when the probability is 0.01, 0.1, and 0.89?
+second <- pbinom(n1,100,0.01)
+plot(second, ylab = "Density", xlab = "Number of successes")
+third <- dbinom(n1,100,0.1)
+plot(third, ylab = "Density", xlab = "Number of successes")
+fourth <- pbinom(n1,100,0.89)
+plot(fourth, ylab = "Density", xlab = "Number of successes")
+#1b)what happens when the size is increased to 1000, 10000, 100000?
+one <- dbinom(n1,1000,0.5)
+plot(one, ylab = "Density", xlab = "Number of successes")
+two <- dbinom(n1,10000,0.5)
+plot(two, ylab = "Density", xlab = "Number of successes")
+three <- dbinom(n1,100000,0.5)
+fourth <- pbinom(n1,100,0.89)
+plot(fourth, ylab = "Density", xlab = "Number of successes")
+#1a)what happens when the probability is 0.01, 0.1, and 0.89?
+second <- pbinom(27,100,0.01)
+second
+#1a)what happens when the probability is 0.01, 0.1, and 0.89?
+second <- pbinom(n1,100,0.01)
+plot(second, ylab = "Density", xlab = "Number of successes")
+fourth <- pbinom(n1,100,0.89)
+plot(fourth, ylab = "Density", xlab = "Number of successes")
+#1a)what happens when the probability is 0.01, 0.1, and 0.89?
+second <-dpbinom(n1,100,0.01)
+plot(second, ylab = "Density", xlab = "Number of successes")
+#1a)what happens when the probability is 0.01, 0.1, and 0.89?
+second <-dbinom(n1,100,0.01)
+plot(second, ylab = "Density", xlab = "Number of successes")
+third <- dbinom(n1,100,0.1)
+plot(third, ylab = "Density", xlab = "Number of successes")
+fourth <- pbinom(n1,100,0.89)
+plot(fourth, ylab = "Density", xlab = "Number of successes")
+fourth <- dbinom(n1,100,0.89)
+plot(fourth, ylab = "Density", xlab = "Number of successes")
+#Question 1: plot a vector of 100 numbers that are drawn from a probability mass function of a binomial distribution with a 0.5 probability of success
+n1 <- 1:100
+first <- pbinom(n1,100,0.5)
+plot(first, ylab = "Density", xlab = "Number of successes")
+first <- dbinom(n1,100,0.5)
+plot(first, ylab = "Density", xlab = "Number of successes")
+#Question 1: plot a vector of 100 numbers that are drawn from a probability mass function of a binomial distribution with a 0.5 probability of success
+n1 <- 1:100
+first <- dbinom(n1,100,0.5)
+plot(first, ylab = "Density", xlab = "Number of successes")
+fourth <- dbinom(n1,100,0.89)
+plot(fourth, ylab = "Density", xlab = "Number of successes")
+#1b)what happens when the size is increased to 1000, 10000, 100000?
+one <- dbinom(n1,1000,0.5)
+plot(one, ylab = "Density", xlab = "Number of successes")
+#1a)what happens when the probability is 0.01, 0.1, and 0.89?
+second <-dbinom(n1,100,0.01)
+plot(second, ylab = "Density", xlab = "Number of trials")
+fourth <- dbinom(n1,100,0.89)
+plot(fourth, ylab = "Density", xlab = "Number of trials")
+#1a)what happens when the probability is 0.01, 0.1, and 0.89?
+second <-dbinom(n1,100,0.01)
+plot(second, ylab = "Density", xlab = "Number of trials")
+third <- dbinom(n1,100,0.1)
+plot(third, ylab = "Density", xlab = "Number of trials")
+fourth <- dbinom(n1,100,0.89)
+plot(fourth, ylab = "Density", xlab = "Number of trials")
+fourth <- dbinom(n1,100,1)
+plot(fourth, ylab = "Density", xlab = "Number of trials")
+#1b)what happens when the size is increased to 1000, 10000, 100000?
+one <- dbinom(n1,1000,0.5)
+plot(one, ylab = "Density", xlab = "Number of successes")
+#1b)what happens when the size is increased to 1000, 10000, 100000?
+one <- dbinom(n1,1000,0.5)
+plot(one, ylab = "Density", xlab = "Number of successes")
+two <- dbinom(n1,10000,0.5)
+plot(two, ylab = "Density", xlab = "Number of successes")
+three <- dbinom(n1,100000,0.5)
+plot(three, ylab = "Density", xlab = "Number of successes")
+#1b)what happens when the size is increased to 1000, 10000, 100000?
+one <- dbinom(1:1000,1000,0.5)
+plot(one, ylab = "Density", xlab = "Number of successes")
+n1
+#1b)what happens when the size is increased to 1000, 10000, 100000?
+one <- dbinom(n1,1000,0.5)
+plot(one, ylab = "Density", xlab = "Number of successes")
+#1b)what happens when the size is increased to 1000, 10000, 100000?
+one <- dbinom(n1,1000,0.5)
+plot(one, ylab = "Density", xlab = "Number of successes")
+#1b)what happens when the size is increased to 1000, 10000, 100000?
+one <- dbinom(1:1000,1000,0.5)
+plot(one, ylab = "Density", xlab = "Number of successes")
+two <- dbinom(1:10000,10000,0.5)
+plot(two, ylab = "Density", xlab = "Number of successes")
+three <- dbinom(1:100000,100000,0.5)
+plot(three, ylab = "Density", xlab = "Number of successes")
+#1b)what happens when the size is increased to 1000, 10000, 100000?
+one <- dbinom(1:1000,1000,0.5)
+plot(one, ylab = "Density", xlab = "Number of successes")
+two <- dbinom(1:10000,10000,0.5)
+plot(two, ylab = "Density", xlab = "Number of successes")
+#1b)what happens when the size is increased to 1000, 10000, 100000?
+one <- dbinom(1:1000,1000,0.5)
+plot(one, ylab = "Density", xlab = "Number of successes")
+two <- dbinom(1:10000,10000,0.5)
+plot(two, ylab = "Density", xlab = "Number of successes")
+three <- dbinom(1:100000,100000,0.5)
+plot(three, ylab = "Density", xlab = "Number of successes")
+#1b)what happens when the size is increased to 1000, 10000, 100000?
+one <- dbinom(1:1000,1000,0.5)
+plot(one, ylab = "Density", xlab = "Number of successes")
+two <- dbinom(1:10000,10000,0.5)
+plot(two, ylab = "Density", xlab = "Number of successes")
+max(one)
+max(two)
+max(three)
+max(one)
+two <- dbinom(1:10000,10000,0.5)
+plot(two, ylab = "Density", xlab = "Number of trials")
+max(two)
+three <- dbinom(1:100000,100000,0.5)
+plot(three, ylab = "Density", xlab = "Number of trials")
+max(three)
+#1b)what happens when the size is increased to 1000, 10000, 100000?
+one <- dbinom(1:1000,1000,0.5)
+plot(one, ylab = "Density", xlab = "Number of trials")
+max(one)
+two <- dbinom(1:10000,10000,0.5)
+plot(two, ylab = "Density", xlab = "Number of trials")
+max(two)
+#The daily revenue of a local store follows a normal distribution with a mean of $1000 and variation of $200
+#what is the probability that the revenue today will be at least $1200?
+pnorm(1200,1000,200) # this gives us prob x smaller than $1200
+1-pnorm(1200,1000,200) # this is the one, x greater than $1200
+?pnorm
+#2a)What is the probability that a randomly chosen widgit weighs more then 19 grams?
+# Hint: What is P(X > 19) when X has the N(17.46, 375.67) distribution?
+# Note: R wants the s. d. as the parameter, not the variance.
+pnorm(19,17.46,375.67) # this gives us prob x smaller than 19
+1-pnorm(19,17.46,375.67) # this is the one, x greater than 19
+1-l
+#2b) Please plot the probabilities of outcomes for 100 values between 2 and 200
+val <- 1:100
+g <- pnorm(200,17.46,375.67)
+l <- pnorm(2,17.46,375.67)
+1-l
+plot(prob)
+#2b) Please plot the probabilities of outcomes for 100 values between 2 and 200
+val <- 100:200
+prob <- pnorm(val,17.46,375.67)
+plot(prob)
+#2b) Please plot the probabilities of outcomes for 100 values between 2 and 200
+val <- 100:200
+prob <- dnorm(val,17.46,375.67)
+plot(prob)
+plot(prob,ylab = "Density", xlab = "Number of trials" )
+plot(prob, ylab = "Density", xlab = "Number of trials between 100 and 200" )
+#2b) Please plot the probabilities of outcomes for 100 values between 2 and 200
+val <- 100:200
+prob <- dnorm(val,17.46,375.67)
+plot(prob, ylab = "Density", xlab = "Number of trials between 100 and 200" )
+#we can use the rnorm function to randomly sample a set of 100 values from a normal distribution with a specified mean and variance (sd)
+z<-rnorm(1000, mean = 10, sd = 4) #assigning the random draws to a variable z
+#let's plot this
+hist(z, probability = TRUE)
+#we can use the rnorm function to randomly sample a set of 100 values from a normal distribution with a specified mean and variance (sd)
+z<-rnorm(1000, mean = 10, sd = 4) #assigning the random draws to a variable z
+z1<-rnorm(10000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+#let's plot this
+hist(z1, probability = TRUE)
+z2<-rnorm(100000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+#let's plot this
+hist(z2, probability = TRUE)
+z1<-rnorm(10000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+#let's plot this
+hist(z1, probability = TRUE)
+z2<-rnorm(100000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+#let's plot this
+hist(z2, probability = TRUE)
+z1<-rnorm(10000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+#let's plot this
+hist(z1, probability = TRUE)
+z2<-rnorm(100000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+#let's plot this
+hist(z2, probability = TRUE)
+z1<-rnorm(10000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+#let's plot this
+hist(z1, probability = TRUE)
+z2<-rnorm(100000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+#let's plot this
+hist(z2, probability = TRUE)
+z1<-rnorm(10000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z1, probability = TRUE)
+z2<-rnorm(100000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z2, probability = TRUE)
+#2b) Please plot the probabilities of outcomes for 100 values between 2 and 200
+val <- 1:101
+prob <- dnorm(val,17.46,375.67)
+plot(prob, ylab = "Density", xlab = "Number of trials between 100 and 200" )
+#we can use the rnorm function to randomly sample a set of 100 values from a normal distribution with a specified mean and variance (sd)
+z<-rnorm(1000, mean = 10, sd = 4) #assigning the random draws to a variable z
+#let's plot this
+hist(z, probability = TRUE)
+z1<-rnorm(10000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z1, probability = TRUE)
+z2<-rnorm(100000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z2, probability = TRUE)
+hist(z1, probability = TRUE, col = "blue")
+hist(z1, probability = TRUE, col = "red")
+hist(z2, probability = TRUE, col = "orange")
+z1<-rnorm(10000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z1, probability = TRUE, col = "red")
+z2<-rnorm(100000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z2, probability = TRUE, col = "orange")
+z1<-rnorm(10000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z1, probability = TRUE, col = "red")
+z2<-rnorm(100000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z2, probability = TRUE, col = "orange")
+z2<-rnorm(100000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z2, probability = TRUE, col = "orange")
+z1<-rnorm(10000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z1, probability = TRUE, col = "red")
+z1<-rnorm(10000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z1, probability = TRUE, col = "red")
+z2<-rnorm(100000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z2, probability = TRUE, col = "orange")
+z1<-rnorm(10000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z1, probability = TRUE, col = "red")
+z2<-rnorm(100000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z2, probability = TRUE, col = "orange")
+hist(z1, probability = TRUE, col = "red")
+z2<-rnorm(100000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z2, probability = TRUE, col = "orange")
+#we can use the rnorm function to randomly sample a set of 100 values from a normal distribution with a specified mean and variance (sd)
+z<-rnorm(1000, mean = 10, sd = 4) #assigning the random draws to a variable z
+#let's plot this
+hist(z, probability = TRUE)
+#let's pick 100 outcomes from 1000 random draws
+xx <- seq(min(z), max(z), length=100)
+lines(xx, dnorm(xx, mean=10, sd=4)) #this draws a line on the histogram
+#Poisson distribution
+#let's start with a probability mass function with a rate parameter of 3
+n <- 1:100 #setting a vector with numbers 1-100 in ascending order
+den <- dpois(n, 3) #using the dpois function to draw 100 values from a poisson distribution with a rate parameter of 3
+plot(den, xlab = "Outcome", ylab = "Density")
+plot(den, xlab = "Outcome", ylab = "Density",col='pink')
+plot(den, xlab = "Outcome", ylab = "Density",col='red')
+z1<-rnorm(10000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z1, probability = TRUE, col = "red")
+z2<-rnorm(100000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z2, probability = TRUE, col = "orange")
+z1<-rnorm(10000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z1, probability = TRUE, col = "red")
+z2<-rnorm(100000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z2, probability = TRUE, col = "orange")
+z1<-rnorm(10000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z1, probability = TRUE, col = "red")
+z2<-rnorm(100000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z2, probability = TRUE, col = "orange")
+#let's pick 100 outcomes from 1000 random draws
+xx <- seq(min(z), max(z), length=100)
+lines(xx, dnorm(xx, mean=10, sd=4)) #this draws a line on the histogram
+#let's pick 100 outcomes from 1000 random draws
+xx <- seq(min(z), max(z), length=100)
+lines(xx, dnorm(xx, mean=10, sd=4)) #this draws a line on the histogram
+#let's plot this
+hist(z, probability = TRUE)
+z1<-rnorm(10000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z1, probability = TRUE, col = "red")
+z2<-rnorm(100000, mean = 10, sd = 4) #assigning the random draws to a variable z1
+hist(z2, probability = TRUE, col = "orange")
+#let's pick 100 outcomes from 1000 random draws
+xx <- seq(min(z), max(z), length=100)
+lines(xx, dnorm(xx, mean=10, sd=4)) #this draws a line on the histogram
+#Poisson distribution
+#let's start with a probability mass function with a rate parameter of 3
+n <- 1:100 #setting a vector with numbers 1-100 in ascending order
+#let's pick 100 outcomes from 1000 random draws
+xx <- seq(min(z), max(z), length=100)
+lines(xx, dnorm(xx, mean=10, sd=4)) #this draws a line on the histogram
+#Poisson distribution
+#let's start with a probability mass function with a rate parameter of 3
+n <- 1:100 #setting a vector with numbers 1-100 in ascending order
+den <- dpois(n, 3) #using the dpois function to draw 100 values from a poisson distribution with a rate parameter of 3
+plot(den, xlab = "Outcome", ylab = "Density",col='red')
+#Question 3:
+#3a)What happens to the shape of the distribution when the rate parameter is 0.3?
+den <- dpois(n, 0.3) #using the dpois function to draw 100 values from a poisson distribution with a rate parameter of 3
+plot(den, xlab = "Outcome", ylab = "Density",col='red')
+plot(den, xlab = "Outcome", ylab = "Density",col='blue')
+#3b) What happens to the shape of the distribution when the rate parameter is 10?
+den <- dpois(n, 10) #using the dpois function to draw 100 values from a poisson distribution with a rate parameter of 3
+plot(den, xlab = "Outcome", ylab = "Density",col='blue')
+#3c) What happens to the shape of the distribution when the rate parameter is 100?
+den <- dpois(n, 100) #using the dpois function to draw 100 values from a poisson distribution with a rate parameter of 3
+plot(den, xlab = "Outcome", ylab = "Density",col='blue')
+#Question 3:
+#3a)What happens to the shape of the distribution when the rate parameter is 0.3?
+den <- dpois(n, 0.3) #using the dpois function to draw 100 values from a poisson distribution with a rate parameter of 3
+plot(den, xlab = "Outcome", ylab = "Density",col='blue')
+#3b) What happens to the shape of the distribution when the rate parameter is 10?
+den <- dpois(n, 10) #using the dpois function to draw 100 values from a poisson distribution with a rate parameter of 3
+plot(den, xlab = "Outcome", ylab = "Density",col='blue')
+plot(den, xlab = "Outcome", ylab = "Density",col='blue')
+#3c) What happens to the shape of the distribution when the rate parameter is 100?
+den <- dpois(n, 100) #using the dpois function to draw 100 values from a poisson distribution with a rate parameter of 3
+plot(den, xlab = "Outcome", ylab = "Density",col='blue')
+plot(den, xlab = "Outcome", ylab = "Density",col='blue')
+#Question 3:
+#3a)What happens to the shape of the distribution when the rate parameter is 0.3?
+den <- dpois(n, 0.3) #using the dpois function to draw 100 values from a poisson distribution with a rate parameter of 3
+plot(den, xlab = "Outcome", ylab = "Density",col='blue')
+#3b) What happens to the shape of the distribution when the rate parameter is 10?
+den <- dpois(n, 10) #using the dpois function to draw 100 values from a poisson distribution with a rate parameter of 3
+plot(den, xlab = "Outcome", ylab = "Density",col='blue')
+#3c) What happens to the shape of the distribution when the rate parameter is 100?
+den <- dpois(n, 100) #using the dpois function to draw 100 values from a poisson distribution with a rate parameter of 3
+plot(den, xlab = "Outcome", ylab = "Density",col='blue')
+#3c) What happens to the shape of the distribution when the rate parameter is 100?
+den <- dpois(n, 120) #using the dpois function to draw 100 values from a poisson distribution with a rate parameter of 3
+plot(den, xlab = "Outcome", ylab = "Density",col='blue')
+0
+0
+#3c) What happens to the shape of the distribution when the rate parameter is 100?
+den <- dpois(n, 100) #using the dpois function to draw 100 values from a poisson distribution with a rate parameter of 3
+plot(den, xlab = "Outcome", ylab = "Density",col='blue')
+#Question 3:
+#3a)What happens to the shape of the distribution when the rate parameter is 0.3?
+den <- dpois(n, 0.3) #using the dpois function to draw 100 values from a poisson distribution with a rate parameter of 3
+plot(den, xlab = "Outcome", ylab = "Density",col='blue')
+rp<-rpois(1000, 5) #assigning the random draws to a variable z1
+hist(rp, probability = TRUE, col = "orange")
+xx <- seq(min(z), max(z), length=100)
+lines(xx, dnorm(xx, mean=10, sd=4)) #this draws a line on the histogram
+rp<-rpois(1000, 5) #assigning the random draws to a variable z1
+hist(rp, probability = TRUE, col = "orange")
+xx <- seq(min(z), max(z), length=100)
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+xx
+rp<-rpois(1000, 5) #assigning the random draws to a variable z1
+hist(rp, probability = TRUE, col = "orange")
+xx <- seq(min(z), max(z), length=100)
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+rp<-rpois(1000, 5) #assigning the random draws to a variable z1
+hist(rp, probability = TRUE, col = "orange")
+xx <- seq(min(z), max(z), length=100)
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+rp<-rpois(1000, 5) #assigning the random draws to a variable rp
+hist(rp, probability = TRUE, col = "orange")
+xx <- seq(min(z), max(z), length=100)
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+rp<-rpois(1000, 5) #assigning the random draws to a variable rp
+hist(rp, probability = TRUE, col = "orange")
+xx <- seq(min(z), max(z), length=100)
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+rp<-rpois(1000, 5) #assigning the random draws to a variable rp
+hist(rp, probability = TRUE, col = "orange")
+xx <- seq(min(z), max(z), length=100)
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+xx <- seq(min(rp), max(rp), length=100)
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+rp<-rpois(1000, 5) #assigning the random draws to a variable rp
+hist(rp, probability = TRUE, col = "orange")
+xx <- seq(min(rp), max(rp), length=100)
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+warning()
+warning()
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+xx <- seq(min(rp), max(rp), length=100)
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+warning()
+rp<-rpois(1000, 5) #assigning the random draws to a variable rp
+hist(rp, probability = TRUE, col = "orange")
+xx <- seq(min(rp), max(rp), length=100)
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+warning()
+warning()
+warnings()
+warning()
+warnings()
+xx <- seq(min(rp), max(rp), length=100)
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+rp<-rpois(1000, 5) #assigning the random draws to a variable rp
+hist(rp, probability = TRUE, col = "orange")
+xx <- seq(min(rp), max(rp), length=100)
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+rp<-rpois(1000, 5) #assigning the random draws to a variable rp
+hist(rp, probability = TRUE, col = "orange")
+xx <- seq(min(rp), max(rp), length=100)
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+xx
+rp<-rpois(1000, 5) #assigning the random draws to a variable rp
+hist(rp, probability = TRUE, col = "orange")
+xx <- seq(min(rp), max(rp), length=100)
+xx
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+dpois(xx,5)
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+warning()
+warning()
+warnings()
+dpois(xx,5)
+warnings()
+xx <- seq(round(min(rp)), round(max(rp)), length=100)
+xx
+lines(xx, dpois(xx,5)) #this draws a line on the histogram
+round(xx)
+xx
+xx <- round(xx)
+lines(xx, dpois(xx,5)) #this draws a line on the histogram

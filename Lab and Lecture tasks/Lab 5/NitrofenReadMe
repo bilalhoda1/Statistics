@@ -1,0 +1,20 @@
+Read Me - Toxicity of Pesticide Nitrofen in Aquatic Ecosystems
+
+Details: Nitrofen is a herbicide that was used extensively for the control of broad-leaved and grass weeds in cereals and rice. Although it is relatively non-toxic to adult mammals, nitrofen is a significant tetragen and mutagen. It is also acutely toxic and reproductively toxic to cladoceran zooplankton. Nitrofen is no longer in commercial use in the U.S., having been the first pesticide to be withdrawn due to tetragenic effects.
+
+The data here come from an experiment to measure the reproductive toxicity of nitrofen on a species of zooplankton (Ceriodaphnia dubia). 50 animals were randomized into batches of 10 and each batch was put in a solution with a measured concentration of nitrofen. Then the number of live offspring in each of the three broods to each animal was recorded. 
+
+Image: http://cfb.unh.edu/cfbkey/html/Organisms/CCladocera/FDaphnidae/GCeriodaphnia/Ceriodaphnia_dubia/ceriodaphniadubia.html
+
+Dataset: 
+Each row represented a batch of zooplankton exposed to different concentrations of nitrofen
+
+Variables
+
+conc - The nitrofen concentration in the solution (mug/litre).
+brood1 - The number of live offspring in the first brood.
+brood2 - The number of live offspring in the second brood.
+brood3 - The number of live offspring in the third brood.
+total - The total number of live offspring in the first three broods.
+
+

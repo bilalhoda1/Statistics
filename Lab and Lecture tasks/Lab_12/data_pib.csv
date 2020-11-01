@@ -1,0 +1,223 @@
+refno,year,location,pibloc,sex,length,weight,liver,age,skin
+20020094,2002,Presque Isle Bay,Lagoons,F,349,334,0,6,1
+20020098,2002,Presque Isle Bay,Lagoons,F,313,330,0,5,99
+20020100,2002,Presque Isle Bay,Lagoons,M,345,500,0,8,99
+20020101,2002,Presque Isle Bay,Lagoons,M,307,353,0,7,0
+20020103,2002,Presque Isle Bay,Lagoons,F,336,502,0,7,1
+20020104,2002,Presque Isle Bay,Lagoons,F,330,496,0,9,99
+20020105,2002,Presque Isle Bay,Lagoons,F,314,300,0,6,99
+20020106,2002,Presque Isle Bay,Lagoons,,331,457,0,4,99
+20020107,2002,Presque Isle Bay,Lagoons,,311,349,0,6,99
+20020108,2002,Presque Isle Bay,Lagoons,,323,463,0,5,1
+20020109,2002,Presque Isle Bay,Lagoons,,322,329,0,3,99
+20020110,2002,Presque Isle Bay,Lagoons,,343,531,0,7,99
+20020111,2002,Presque Isle Bay,Lagoons,F,321,381,0,8,1
+20020112,2002,Presque Isle Bay,Lagoons,,320,415,0,7,99
+20020114,2002,Presque Isle Bay,Lagoons,F,308,384,0,5,99
+20020115,2002,Presque Isle Bay,Lagoons,F,330,470,0,9,1
+20020116,2002,Presque Isle Bay,Lagoons,M,345,534,0,9,99
+20020118,2002,Presque Isle Bay,Lagoons,M,363,609,0,8,1
+20020120,2002,Presque Isle Bay,Lagoons,M,324,508,0,4,99
+20020121,2002,Presque Isle Bay,Lagoons,F,321,421,0,6,99
+20020122,2002,Presque Isle Bay,Lagoons,F,305,300,0,5,1
+20020124,2002,Presque Isle Bay,Lagoons,M,282,286,1,4,99
+20020283,2002,Presque Isle Bay,Duck Pond,M,364,694,0,7,99
+20020284,2002,Presque Isle Bay,Duck Pond,F,290,345,0,4,0
+20020285,2002,Presque Isle Bay,Duck Pond,M,345,594,0,9,0
+20020286,2002,Presque Isle Bay,Duck Pond,M,302,440,0,6,0
+20020287,2002,Presque Isle Bay,Duck Pond,F,303,366,0,4,0
+20020288,2002,Presque Isle Bay,Duck Pond,M,338,504,0,9,0
+20020290,2002,Presque Isle Bay,Duck Pond,M,268,255,0,3,0
+20020291,2002,Presque Isle Bay,Duck Pond,M,296,340,0,4,0
+20020292,2002,Presque Isle Bay,Duck Pond,F,306,350,0,4,0
+20020293,2002,Presque Isle Bay,Duck Pond,M,263,216,0,3,0
+20020295,2002,Presque Isle Bay,Duck Pond,F,285,290,0,7,0
+20030136,2003,Presque Isle Bay,Lagoons,F,307,330,0,10,0
+20030137,2003,Presque Isle Bay,Lagoons,M,345,535,0,6,0
+20030139,2003,Presque Isle Bay,Lagoons,F,305,330,0,5,0
+20030140,2003,Presque Isle Bay,Lagoons,M,308,400,0,5,0
+20030141,2003,Presque Isle Bay,Lagoons,M,298,329,0,5,0
+20030142,2003,Presque Isle Bay,Lagoons,F,330,450,0,10,1
+20030143,2003,Presque Isle Bay,Lagoons,F,345,512,0,10,99
+20030144,2003,Presque Isle Bay,Lagoons,M,322,436,0,7,0
+20030145,2003,Presque Isle Bay,Lagoons,F,312,409,0,8,99
+20030146,2003,Presque Isle Bay,Lagoons,M,334,423,0,7,99
+20030147,2003,Presque Isle Bay,Lagoons,M,345,404,1,11,0
+20030148,2003,Presque Isle Bay,Lagoons,F,296,260,0,6,0
+20030149,2003,Presque Isle Bay,Lagoons,M,341,499,0,6,0
+20030150,2003,Presque Isle Bay,Lagoons,F,311,348,0,9,0
+20030151,2003,Presque Isle Bay,Lagoons,M,337,440,0,6,0
+20030152,2003,Presque Isle Bay,Lagoons,F,315,380,0,5,0
+20030153,2003,Presque Isle Bay,Lagoons,F,286,272,0,4,0
+20030154,2003,Presque Isle Bay,Lagoons,M,328,396,0,7,0
+20030155,2003,Presque Isle Bay,Lagoons,M,340,445,0,8,1
+20030156,2003,Presque Isle Bay,Lagoons,M,330,504,0,10,1
+20030157,2003,Presque Isle Bay,Lagoons,M,309,364,0,7,0
+20030158,2003,Presque Isle Bay,Lagoons,M,318,365,0,7,99
+20030159,2003,Presque Isle Bay,Lagoons,F,268,209,0,3,0
+20030160,2003,Presque Isle Bay,Lagoons,F,313,370,1,6,0
+20030162,2003,Presque Isle Bay,Lagoons,M,295,292,0,4,0
+20030163,2003,Presque Isle Bay,Lagoons,M,334,445,0,9,1
+20030164,2003,Presque Isle Bay,Lagoons,M,369,655,0,10,1
+20030165,2003,Presque Isle Bay,Lagoons,M,324,388,0,12,1
+20030170,2003,Presque Isle Bay,Lagoons,M,314,389,0,5,1
+20030171,2003,Presque Isle Bay,Lagoons,M,331,410,0,7,1
+20030172,2003,Presque Isle Bay,Lagoons,M,331,468,0,6,0
+20030173,2003,Presque Isle Bay,Lagoons,M,296,365,0,5,0
+20030174,2003,Presque Isle Bay,Lagoons,M,326,318,0,5,0
+20030175,2003,Presque Isle Bay,Lagoons,M,349,490,0,9,1
+20030176,2003,Presque Isle Bay,Lagoons,M,286,265,0,4,0
+20030177,2003,Presque Isle Bay,Lagoons,F,302,370,0,6,1
+20030178,2003,Presque Isle Bay,Lagoons,F,283,259,0,6,0
+20030179,2003,Presque Isle Bay,Lagoons,M,335,469,0,9,1
+20030180,2003,Presque Isle Bay,Lagoons,M,314,360,0,7,0
+20030181,2003,Presque Isle Bay,Lagoons,M,311,425,0,7,0
+20030182,2003,Presque Isle Bay,Lagoons,F,292,310,0,8,99
+20030183,2003,Presque Isle Bay,Lagoons,M,320,414,0,7,0
+20030184,2003,Presque Isle Bay,Lagoons,F,310,452,0,7,0
+20030185,2003,Presque Isle Bay,Lagoons,M,316,385,0,7,0
+20030186,2003,Presque Isle Bay,Lagoons,M,338,562,0,5,0
+20030187,2003,Presque Isle Bay,Lagoons,F,298,402,0,9,1
+20030188,2003,Presque Isle Bay,Lagoons,F,296,350,0,6,0
+20030189,2003,Presque Isle Bay,Lagoons,M,351,562,0,10,1
+20040180,2004,Presque Isle Bay,Graveyard Pond,F,343,363,0,9,0
+20040181,2004,Presque Isle Bay,Graveyard Pond,F,326,555,0,9,0
+20040182,2004,Presque Isle Bay,Graveyard Pond,M,341,602,0,6,0
+20040184,2004,Presque Isle Bay,Graveyard Pond,F,311,546,0,8,1
+20040185,2004,Presque Isle Bay,Graveyard Pond,F,340,493,0,9,99
+20040186,2004,Presque Isle Bay,Graveyard Pond,M,338,528,0,10,1
+20040187,2004,Presque Isle Bay,Graveyard Pond,M,354,380,1,9,0
+20040188,2004,Presque Isle Bay,Graveyard Pond,M,310,450,0,6,0
+20040189,2004,Presque Isle Bay,Graveyard Pond,M,377,706,0,5,0
+20040190,2004,Presque Isle Bay,Graveyard Pond,F,320,544,0,5,0
+20040191,2004,Presque Isle Bay,Graveyard Pond,F,333,531,0,5,0
+20040192,2004,Presque Isle Bay,Graveyard Pond,M,290,355,0,6,0
+20040193,2004,Presque Isle Bay,Graveyard Pond,F,292,405,0,8,1
+20040194,2004,Presque Isle Bay,Graveyard Pond,F,312,326,0,11,1
+20040195,2004,Presque Isle Bay,Graveyard Pond,M,351,505,0,11,0
+20040196,2004,Presque Isle Bay,Graveyard Pond,M,293,334,0,6,0
+20040197,2004,Presque Isle Bay,Graveyard Pond,M,360,660,0,10,0
+20040198,2004,Presque Isle Bay,Graveyard Pond,M,334,534,0,8,0
+20040199,2004,Presque Isle Bay,Graveyard Pond,F,321,505,1,10,0
+20040200,2004,Presque Isle Bay,Graveyard Pond,F,343,612,1,10,0
+20040201,2004,Presque Isle Bay,Graveyard Pond,M,320,543,0,11,1
+20040202,2004,Presque Isle Bay,Graveyard Pond,F,327,476,0,6,0
+20040203,2004,Presque Isle Bay,Graveyard Pond,M,342,632,0,5,0
+20040204,2004,Presque Isle Bay,Graveyard Pond,M,341,622,0,11,1
+20040205,2004,Presque Isle Bay,Graveyard Pond,M,341,496,0,10,1
+20040206,2004,Presque Isle Bay,Graveyard Pond,F,320,476,0,6,0
+20040207,2004,Presque Isle Bay,Graveyard Pond,M,335,592,0,6,0
+20040208,2004,Presque Isle Bay,Graveyard Pond,M,369,569,0,9,0
+20040209,2004,Presque Isle Bay,Graveyard Pond,F,329,575,0,5,0
+20040210,2004,Presque Isle Bay,Graveyard Pond,F,341,635,0,9,0
+20040211,2004,Presque Isle Bay,Graveyard Pond,M,345,681,0,10,1
+20040212,2004,Presque Isle Bay,Graveyard Pond,F,340,500,0,7,0
+20040213,2004,Presque Isle Bay,Graveyard Pond,M,351,582,0,11,1
+20040214,2004,Presque Isle Bay,Graveyard Pond,F,372,811,0,10,1
+20040215,2004,Presque Isle Bay,Graveyard Pond,M,355,764,0,6,0
+20040216,2004,Presque Isle Bay,Graveyard Pond,F,354,765,0,8,0
+20040217,2004,Presque Isle Bay,Graveyard Pond,M,350,705,1,10,1
+20040218,2004,Presque Isle Bay,Graveyard Pond,M,336,502,0,12,1
+20040219,2004,Presque Isle Bay,Graveyard Pond,M,359,759,0,11,1
+20040220,2004,Presque Isle Bay,Graveyard Pond,M,356,716,0,11,0
+20040221,2004,Presque Isle Bay,Graveyard Pond,M,340,563,1,11,0
+20040222,2004,Presque Isle Bay,Graveyard Pond,F,323,502,0,5,0
+20040223,2004,Presque Isle Bay,Graveyard Pond,M,325,571,0,6,0
+20040234,2004,Presque Isle Bay,Lagoons,F,313,522,0,10,0
+20040235,2004,Presque Isle Bay,Lagoons,M,325,540,0,6,1
+20040237,2004,Presque Isle Bay,Lagoons,M,335,483,0,5,0
+20040238,2004,Presque Isle Bay,Lagoons,F,354,570,0,13,0
+20040239,2004,Presque Isle Bay,Lagoons,M,321,509,0,6,0
+20040240,2004,Presque Isle Bay,Lagoons,F,322,488,0,6,1
+20050082,2005,Presque Isle Bay,Lagoons,F,355,552,0,7,0
+20050083,2005,Presque Isle Bay,Lagoons,F,310,424,0,7,1
+20050084,2005,Presque Isle Bay,Lagoons,M,335,485,0,6,0
+20050085,2005,Presque Isle Bay,Lagoons,M,294,292,0,4,0
+20050086,2005,Presque Isle Bay,Lagoons,M,340,537,0,7,0
+20050087,2005,Presque Isle Bay,Lagoons,M,354,550,0,5,0
+20050088,2005,Presque Isle Bay,Lagoons,M,345,505,0,4,0
+20050089,2005,Presque Isle Bay,Lagoons,M,317,405,0,5,0
+20050090,2005,Presque Isle Bay,Lagoons,F,280,286,0,8,0
+20050091,2005,Presque Isle Bay,Lagoons,M,295,374,0,5,0
+20050092,2005,Presque Isle Bay,Lagoons,F,305,356,0,6,0
+20050093,2005,Presque Isle Bay,Lagoons,M,365,713,0,10,1
+20050094,2005,Presque Isle Bay,Lagoons,M,342,564,0,6,0
+20050095,2005,Presque Isle Bay,Lagoons,M,360,566,0,6,1
+20050096,2005,Presque Isle Bay,Lagoons,M,345,568,0,7,0
+20050097,2005,Presque Isle Bay,Lagoons,F,351,503,0,8,1
+20050098,2005,Presque Isle Bay,Lagoons,F,285,270,0,5,0
+20050099,2005,Presque Isle Bay,Lagoons,M,322,438,0,7,0
+20050100,2005,Presque Isle Bay,Lagoons,M,283,268,0,3,0
+20050182,2005,Presque Isle Bay,Lagoons,F,335,574,0,5,0
+20050186,2005,Presque Isle Bay,Lagoons,M,343,619,0,9,0
+20050188,2005,Presque Isle Bay,Lagoons,F,368,725,0,7,0
+20050189,2005,Presque Isle Bay,Lagoons,M,343,565,0,6,0
+20050190,2005,Presque Isle Bay,Misery Bay,M,342,640,0,7,0
+20050191,2005,Presque Isle Bay,Misery Bay,F,365,730,0,7,0
+20050192,2005,Presque Isle Bay,Misery Bay,M,320,470,0,7,0
+20050193,2005,Presque Isle Bay,Misery Bay,F,329,547,0,7,1
+20050194,2005,Presque Isle Bay,Misery Bay,M,316,467,0,6,0
+20050195,2005,Presque Isle Bay,Misery Bay,F,335,452,0,9,1
+20050196,2005,Presque Isle Bay,Misery Bay,M,300,292,0,4,0
+20050197,2005,Presque Isle Bay,Misery Bay,M,354,610,0,7,1
+20050198,2005,Presque Isle Bay,Misery Bay,M,356,523,0,7,0
+20050199,2005,Presque Isle Bay,Misery Bay,M,360,593,0,7,0
+20050200,2005,Presque Isle Bay,Misery Bay,F,293,233,1,6,0
+20050201,2005,Presque Isle Bay,Misery Bay,M,330,495,0,6,0
+20050202,2005,Presque Isle Bay,Misery Bay,F,320,488,1,8,1
+20050203,2005,Presque Isle Bay,Misery Bay,M,350,557,0,11,1
+20050204,2005,Presque Isle Bay,Sara's Cove,F,285,364,0,6,0
+20050205,2005,Presque Isle Bay,Sara's Cove,F,296,438,0,7,0
+20050207,2005,Presque Isle Bay,Sara's Cove,M,340,608,0,6,0
+20050208,2005,Presque Isle Bay,Sara's Cove,M,336,551,0,6,0
+20050209,2005,Presque Isle Bay,Sara's Cove,F,301,434,0,8,0
+20070147,2007,Presque Isle Bay,Duck Pond,M,348,587,0,6,0
+20070148,2007,Presque Isle Bay,Duck Pond,M,345,520,0,9,0
+20070149,2007,Presque Isle Bay,Duck Pond,F,346,401,0,9,1
+20070150,2007,Presque Isle Bay,Duck Pond,F,322,470,0,10,0
+20070151,2007,Presque Isle Bay,Duck Pond,M,366,654,0,8,1
+20070152,2007,Presque Isle Bay,Misery Bay,M,345,417,1,9,1
+20070153,2007,Presque Isle Bay,Misery Bay,M,355,541,0,5,0
+20070154,2007,Presque Isle Bay,Misery Bay,M,361,613,0,11,1
+20070155,2007,Presque Isle Bay,Misery Bay,F,366,599,0,9,0
+20070156,2007,Presque Isle Bay,Misery Bay,F,340,544,0,8,1
+20070157,2007,Presque Isle Bay,Misery Bay,F,343,585,0,9,1
+20070158,2007,Presque Isle Bay,Misery Bay,F,342,402,0,12,0
+20070159,2007,Presque Isle Bay,Lagoons,F,358,569,1,8,1
+20070160,2007,Presque Isle Bay,Lagoons,F,389,868,0,9,1
+20070161,2007,Presque Isle Bay,Lagoons,M,339,472,0,9,0
+20070162,2007,Presque Isle Bay,Lagoons,M,405,895,0,8,0
+20070163,2007,Presque Isle Bay,Lagoons,F,305,469,0,5,0
+20070164,2007,Presque Isle Bay,Lagoons,F,338,576,1,9,1
+20070165,2007,Presque Isle Bay,Lagoons,F,336,517,0,5,0
+20070168,2007,Presque Isle Bay,Lagoons,F,319,416,0,9,0
+20070169,2007,Presque Isle Bay,Lagoons,M,333,462,0,10,0
+20070170,2007,Presque Isle Bay,Lagoons,M,362,665,0,9,0
+20070171,2007,Presque Isle Bay,Lagoons,M,379,725,0,9,0
+20070172,2007,Presque Isle Bay,Lagoons,M,340,506,0,5,0
+20070173,2007,Presque Isle Bay,Sara's Cove,M,363,645,0,8,0
+20070174,2007,Presque Isle Bay,Sara's Cove,F,306,389,0,8,0
+20070175,2007,Presque Isle Bay,Sara's Cove,F,316,485,1,14,0
+20070176,2007,Presque Isle Bay,Sara's Cove,F,326,498,0,8,0
+20070177,2007,Presque Isle Bay,Sara's Cove,F,323,482,0,9,1
+20070178,2007,Presque Isle Bay,Sara's Cove,M,340,599,0,8,0
+20070179,2007,Presque Isle Bay,Sara's Cove,F,328,558,0,16,0
+20070180,2007,Presque Isle Bay,Sara's Cove,F,381,749,0,9,0
+20070181,2007,Presque Isle Bay,Sara's Cove,F,337,525,0,14,0
+20070182,2007,Presque Isle Bay,Sara's Cove,F,317,410,0,8,0
+20070183,2007,Presque Isle Bay,Sara's Cove,M,330,489,0,8,1
+20070184,2007,Presque Isle Bay,Sara's Cove,F,314,445,0,8,0
+20070185,2007,Presque Isle Bay,Sara's Cove,M,360,707,0,8,0
+20070186,2007,Presque Isle Bay,Sara's Cove,F,319,489,0,8,1
+20070187,2007,Presque Isle Bay,Sara's Cove,M,362,682,0,9,1
+20070188,2007,Presque Isle Bay,Sara's Cove,M,339,500,1,13,1
+20070189,2007,Presque Isle Bay,Sara's Cove,M,356,540,0,8,0
+20070190,2007,Presque Isle Bay,Sara's Cove,F,305,379,0,9,0
+20070191,2007,Presque Isle Bay,Sara's Cove,F,333,598,0,14,0
+20070192,2007,Presque Isle Bay,Sara's Cove,F,310,436,0,9,1
+20070193,2007,Presque Isle Bay,Sara's Cove,F,328,441,0,8,0
+20070194,2007,Presque Isle Bay,Sara's Cove,M,358,560,0,8,1
+20070195,2007,Presque Isle Bay,Sara's Cove,M,370,714,0,12,1
+20070196,2007,Presque Isle Bay,Misery Bay,M,337,516,0,9,0
+20070197,2007,Presque Isle Bay,Misery Bay,M,366,668,1,8,1
+20070198,2007,Presque Isle Bay,Misery Bay,M,369,690,0,13,0
